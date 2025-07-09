@@ -13,10 +13,9 @@ gscholar: 47EbdvgAAAAJ  # This is an example, replace it with your own Google Sc
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    A  is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   I am a Ph.D. student at <a href="https://www.cs.huji.ac.il/" target="_blank">the School of Computer Science and Engineering</a>  of the Hebrew University of Jerusalem (HUJI).
   My research primarily focuses on proof production for deep neural network (DNN) verification, and its theoretical computability and complexity aspects.
   I am advised by <a href="https://www.katz-lab.com/" target="_blank"> Prof. Guy Katz.</a> 
