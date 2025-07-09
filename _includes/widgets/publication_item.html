@@ -9,7 +9,7 @@
         {%- else -%}
         <div class="col p-3 ml-md-2">
         {%- endif -%}
-            <h4 class="mt-0 mb-1 font-weight-normal fs-2 fw-bold">{{ item.title }}</h4>
+            <h4 class="mt-0 mb-1 fs-2 font-weight-bold">{{ item.title }}</h4>
             <p class="mt-0 mb-0 fs-4">{% include widgets/author_list.html authors=item.authors %}</p>
             <p class="mt-0 mb-0 fs-4">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
             <p class="mt-0 mb-0 fs-4 text-muted">{{ item.abstract }}</p>
