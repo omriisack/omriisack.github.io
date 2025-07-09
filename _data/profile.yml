@@ -17,7 +17,7 @@ short_bio_text_justify: true
 short_bio: >-
   <p>
   I am a Ph.D. student at <a href="https://www.cs.huji.ac.il/" target="_blank">the School of Computer Science and Engineering</a>  of the Hebrew University of Jerusalem (HUJI).
-  My research primarily focuses on proof production for deep neural network (DNN) verification, and its theoretical computability and complexity aspects.
+  My research primarily focuses on <b>proof production</b> for <b>deep neural network</b> (DNN) <b>verification</b>, and its <b>theoretical computability and complexity</b> aspects.
   I am advised by <a href="https://www.katz-lab.com/" target="_blank"> Prof. Guy Katz.</a> 
   As part of my research, I contribute to the <a href="https://github.com/NeuralNetworkVerification/Marabou/" target="_blank"> Marabou DNN verifier.</a>
   </p>
