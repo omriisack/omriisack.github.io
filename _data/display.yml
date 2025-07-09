@@ -3,3 +3,4 @@ homepage:
   show_news: false
   show_selected_publications: true
   num_news: 10
+  footer_texf: "Omri Isac"
