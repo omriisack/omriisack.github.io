@@ -15,7 +15,7 @@ gscholar: 47EbdvgAAAAJ  # This is an example, replace it with your own Google Sc
 
 short_bio_text_justify: true
 short_bio: >-
-  <p style="font-size: 18px">
+  <p style="font-size: 18px, font-family: 'Trebuchet MS', sans-serif ">
   I am a Ph.D. student at <a href="https://www.cs.huji.ac.il/" target="_blank">the School of Computer Science and Engineering</a>  of the Hebrew University of Jerusalem (HUJI).
   My research primarily focuses on <b>proof production</b> for <b>deep neural network</b> (DNN) <b>verification</b>, and its <b>theoretical computability and complexity</b> aspects.
   I am advised by <a href="https://www.katz-lab.com/" target="_blank"> Prof. Guy Katz.</a> 
