@@ -1,7 +1,7 @@
 ---
 title:          "Neural Network Verification with Proof Production"
 date:           2022-10-01 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "Proc. 22nd Int. Conf. on Formal Methods in Computer-Aided Design (FMCAD),"
 pub_date:       "October 2022"
 authors:
